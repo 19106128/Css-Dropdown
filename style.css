@@ -1,0 +1,11 @@
+p::first-line{
+    font-size: x-large;
+    color: red;
+}
+p::first-letter{
+    font-variant: small-caps;
+    color: green;
+}
+img{
+    opacity: 0.8;
+}

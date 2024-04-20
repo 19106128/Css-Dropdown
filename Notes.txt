@@ -1,0 +1,12 @@
+pseudo classes: it is used to special state of an element it can be used to style an element when an user mouses over it(visited,un visited) or when focused.
+  syntax: selector: pseudo/class(property: value);
+  pseudo element: it used to style specified part of an element. it can be used to style the first letter or first line. insert conten before and after of contenr
+      syntax: selector:: pseudo element{
+        property: value
+      };
+      marker: it selects the marker of the list element.
+ opacity: specifies the transperancy of an element(value=0 to 1) 
+ css navigation bar:   navigation bar.
+ css dropdown: Task
+ 
+  
